@@ -10,7 +10,7 @@ metadata:
     alb.ingress.kubernetes.io/subnets: subnet-0d52c82d09e53c886, subnet-03c06ba584dbd1cba, subnet-07d42302f121b5617
     alb.ingress.kubernetes.io/target-type: ip
     kubernetes.io/ingress.class: alb
-  name: pvt-alb-ingress-crm-subsys-01-qa
+  name: pvt-alb-ingress-crm-core-01-qa
   namespace: alb-qa
 spec:
   rules:
