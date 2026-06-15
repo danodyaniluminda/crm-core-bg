@@ -10,7 +10,7 @@ metadata:
     alb.ingress.kubernetes.io/subnets: subnet-0e634285ad2bc8d2f, subnet-04e476ac22d27d802, subnet-02a0e0b4ae0184af1
     alb.ingress.kubernetes.io/target-type: ip
     kubernetes.io/ingress.class: alb
-  name: pvt-alb-ingress-crm-core-02-uat
+  name: pvt-alb-ingress-crm-core-03-uat
   namespace: alb-uat
 spec:
   rules:
